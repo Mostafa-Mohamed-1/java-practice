@@ -17,9 +17,4 @@ Welcome to the **Java Practice Repository**! This repository contains small Java
 
 This program reads two integers from the user and computes their **greatest common divisor** using the Euclidean algorithm.
 
-### 🔧 Compile
 
-From the **project root** (`java_practice/`), run:
-
-```bash
-javac GCD.java
